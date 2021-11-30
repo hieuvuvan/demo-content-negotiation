@@ -12,3 +12,6 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation
 ## buid hoặc run
 - build dùng golang 16 trở lên: go build *.go
 - run ./main.exe hoặc ./bin/main.exe
+
+## Note
+- Hiện tại đang chỉ work với trình duyệt chrome, edge, nhân chromium
